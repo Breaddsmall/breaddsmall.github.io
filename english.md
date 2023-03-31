@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About (English)
+title: About... (English)
 permalink: /about_english/
 ---
 <!-- 
@@ -18,6 +18,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll -->
 
 # About me
+
+
 
 - Name: Song Yanru
 - Education: 
