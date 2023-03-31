@@ -4,6 +4,5 @@
 
 layout: home
 title: Breaddsmall's homepage
-permalink: /index/
 ---
 # Hello! I'm breaddsmall
