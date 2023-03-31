@@ -24,7 +24,7 @@ email: 51255903111@stu.ecnu.edu.cn
 domain: breaddsmall.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 description:  # this means to ignore newlines until "baseurl:"
   This is Breaddsmall's blog.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: breaddsmall.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
