@@ -19,7 +19,7 @@ You can find the source code for Jekyll at GitHub:
 
 # About me
 
-
+[中文页面](chinese.md)
 
 - Name: Song Yanru
 - Education: 

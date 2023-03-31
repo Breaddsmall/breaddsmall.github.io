@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 个人简介 (中文)
-permalink: /index/
+permalink: /about_chinese/
 ---
 <!-- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
