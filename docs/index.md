@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Breaddsmall's homepage"
+title: Breaddsmall's homepage
+permalink: /index/
 ---
 # Hello! I'm breaddsmall
